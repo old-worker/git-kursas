@@ -1,3 +1,3 @@
 <?php
-echo "Veikia";
+echo "Veikia. Pamoka Nr. 4";
 ?>
