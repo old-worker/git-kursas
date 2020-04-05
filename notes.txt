@@ -1,0 +1,4 @@
+--
+cd D:/Kita/VidasWeb/_KITA/git_lessons
+git init
+git status
