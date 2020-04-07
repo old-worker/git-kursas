@@ -1,1 +1,1 @@
-<?php define("DB_NAME", "git_lesson"); ?>
+<?php define("DB_NAME", "git_lessons"); ?>
